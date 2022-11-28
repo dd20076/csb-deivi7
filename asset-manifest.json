@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-deivi7/static/js/main.7bd3d910.chunk.js",
-    "main.js.map": "https://.github.io/csb-deivi7/static/js/main.7bd3d910.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-deivi7/static/js/runtime-main.0d1c5980.js",
-    "runtime-main.js.map": "https://.github.io/csb-deivi7/static/js/runtime-main.0d1c5980.js.map",
-    "static/js/2.bb702e27.chunk.js": "https://.github.io/csb-deivi7/static/js/2.bb702e27.chunk.js",
-    "static/js/2.bb702e27.chunk.js.map": "https://.github.io/csb-deivi7/static/js/2.bb702e27.chunk.js.map",
-    "index.html": "https://.github.io/csb-deivi7/index.html",
-    "static/js/2.bb702e27.chunk.js.LICENSE.txt": "https://.github.io/csb-deivi7/static/js/2.bb702e27.chunk.js.LICENSE.txt"
+    "main.js": "https://dd20076.github.io/csb-deivi7/static/js/main.3f9ce989.chunk.js",
+    "main.js.map": "https://dd20076.github.io/csb-deivi7/static/js/main.3f9ce989.chunk.js.map",
+    "runtime-main.js": "https://dd20076.github.io/csb-deivi7/static/js/runtime-main.6745004d.js",
+    "runtime-main.js.map": "https://dd20076.github.io/csb-deivi7/static/js/runtime-main.6745004d.js.map",
+    "static/js/2.a1cba165.chunk.js": "https://dd20076.github.io/csb-deivi7/static/js/2.a1cba165.chunk.js",
+    "static/js/2.a1cba165.chunk.js.map": "https://dd20076.github.io/csb-deivi7/static/js/2.a1cba165.chunk.js.map",
+    "index.html": "https://dd20076.github.io/csb-deivi7/index.html",
+    "static/js/2.a1cba165.chunk.js.LICENSE.txt": "https://dd20076.github.io/csb-deivi7/static/js/2.a1cba165.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d1c5980.js",
-    "static/js/2.bb702e27.chunk.js",
-    "static/js/main.7bd3d910.chunk.js"
+    "static/js/runtime-main.6745004d.js",
+    "static/js/2.a1cba165.chunk.js",
+    "static/js/main.3f9ce989.chunk.js"
   ]
 }
